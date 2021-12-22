@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "Name": "Check Emails",
+      "Day": "Jan 1st At 8AM",
+      "Reminder": true
+    },
+    {
+      "id": 2,
+      "Name": "Attend The Meeting",
+      "Day": "Jan 1st At 11AM",
+      "Reminder": false
+    }
+  ]
+}
